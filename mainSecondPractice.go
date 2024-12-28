@@ -1,7 +1,10 @@
-package main
+package mainSecondPractice.go
 
-import "fmt"
+//import "fmt"
 
 func SayHelloOutside() {
-	fmt.Printf("\nHellofromOutside")
+	Return "You went Outside to a the GoLangOutsideRepo Repo on git hub for this function"
 }
+//func SayHelloOutside() {
+//	fmt.Printf("\nHellofromOutside")
+//}
