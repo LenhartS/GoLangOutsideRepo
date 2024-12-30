@@ -1,4 +1,4 @@
-package mainSecondPractice.go
+package mainSecondPractice
 
 //import "fmt"
 
